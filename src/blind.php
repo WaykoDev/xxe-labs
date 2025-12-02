@@ -8,7 +8,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     $dom->loadXML($xml, LIBXML_NOENT | LIBXML_DTDLOAD);
     
- $output = "<div class='result'>Données d'analytique enregistrées avec succès.</div>";
+ $output = "<div class='result'>Analytics data successfully saved.</div>";
 }
 ?>
 <!DOCTYPE html>

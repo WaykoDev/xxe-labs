@@ -8,10 +8,6 @@
 <body>
 <div class="container">
     <h1>XXE Labs</h1>
-    
-    <div style="text-align: center; margin: 30px 0;">
-        <iframe src="hacker.gif" width="480" height="452" scrolling="no" style="border: none; overflow: hidden;"></iframe>
-    </div>
 
     <div class="menu-grid">
         <div class="card">
