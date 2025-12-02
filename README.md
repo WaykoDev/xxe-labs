@@ -14,7 +14,7 @@ Prerequisites: **Docker** and **Git**.
 Run the following command to clone the repo and start the lab:
 
 ```bash
-git clone git@github.com:WaykoDev/xxe-labs.git && cd xxe-labs && docker-compose up --build -d 
+git clone https://github.com/WaykoDev/xxe-labs.git && cd xxe-labs && docker-compose up --build -d 
 ```
 
 Enjoy! 👨🏽‍💻
